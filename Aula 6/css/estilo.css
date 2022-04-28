@@ -1,0 +1,30 @@
+.p1 {
+    color:aqua ;
+}
+
+.button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 50px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+
+    .button1 {
+        background-color: #300a38; /* Green */
+        border: none;
+        color: white;
+        padding: 100px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+
+.p2 {
+    color: #180736;
+    font-size:500%;
+}
